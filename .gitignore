@@ -1,1 +1,7 @@
-iterm2/
+# Ignore whatever random files pop up
+*
+
+# Keep the following
+!.gitignore
+!tmux/
+!fish/
